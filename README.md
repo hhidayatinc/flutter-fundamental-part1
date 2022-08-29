@@ -13,3 +13,9 @@ Praktikum 3: menerapkan Widget Dasar
 ![Praktikum 3-1](images/Praktikum_3-1.png)
 - Langkah 2: Image Widget
 ![Praktikum 3-2](images/Praktikum_3-2.png)
+
+Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
+- Langkah 3: Scaffold Widget
+![Praktikum 4-3](images/Praktikum_4-3.png)
+- Langkah 4: Dialog Widget
+![Praktikum 4-4](images/Praktikum_4-4.png)
