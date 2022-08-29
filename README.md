@@ -23,3 +23,9 @@ Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
 ![Praktikum 4-5](images/Praktikum_4-5.png)
 - Langkah 6: Date and Time Pickers Widget
 ![Praktikum 4-6](images/Praktikum_4-6.png)
+
+Tugas Praktikum
+![Tugas Praktikum 1](images/TugasPraktikum_1.png)
+![Tugas Praktikum 2](images/TugasPraktikum_2.png)
+![Tugas Praktikum 3](images/TugasPraktikum_3.png)
+![Tugas Praktikum 4](images/TugasPraktikum_4.png)
