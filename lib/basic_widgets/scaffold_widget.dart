@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 class ScaffoldWidget extends StatefulWidget{
-  final String title;
+  
 
-  const ScaffoldWidget({Key? key, required this.title}) : super(key: key);
+  const ScaffoldWidget({Key? key}) : super(key: key);
 
   @override
   ScaffoldWidgetState createState() => ScaffoldWidgetState();
@@ -23,7 +23,7 @@ class ScaffoldWidgetState extends State<ScaffoldWidget>{
     // TODO: implement build
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.title),
+        title: Text("Scaffold Widget"),
       ),
       body: Center(
         child: Column(

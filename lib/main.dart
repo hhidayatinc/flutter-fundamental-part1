@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hello_world/basic_widgets/date_time_pickers.dart';
 import 'package:hello_world/basic_widgets/dialog_widget.dart';
 import 'package:hello_world/basic_widgets/input_selection_fields.dart';
 import 'package:hello_world/basic_widgets/scaffold_widget.dart';
@@ -12,7 +13,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const InputSelectionField();
+    return const MaterialApp(
+      home: Scaffold(
+        body: MyLayout(),
+      ),
+    );
   }
 }
 

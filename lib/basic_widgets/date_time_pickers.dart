@@ -27,8 +27,11 @@ DateTime selectedDate = DateTime.now();
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
-    return Center(
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Contoh DateTime picker"),
+      ),
+      body: Center(
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
@@ -46,6 +49,7 @@ DateTime selectedDate = DateTime.now();
             ),
           ],
         ),
-      );
+      ),
+    );
   }
 }
