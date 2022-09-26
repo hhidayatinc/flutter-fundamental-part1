@@ -29,3 +29,9 @@ Tugas Praktikum
 ![Tugas Praktikum 2](images/TugasPraktikum_2.png)
 ![Tugas Praktikum 3](images/TugasPraktikum_3.png)
 ![Tugas Praktikum 4](images/TugasPraktikum_4.png)
+
+Build APK
+- AppBundle
+![1](images/apk.jpeg)
+- APK
+![2](images/build.png)
